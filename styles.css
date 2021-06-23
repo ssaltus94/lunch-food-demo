@@ -1,0 +1,159 @@
+body {
+    margin:0;
+  }
+  .cookbook{
+    display: flex;
+    padding-left: 10%;
+    background-color: #dde9fb;
+    height: 5%;
+  }
+  .cookbook-content{
+    width: 50%;
+    display: inline-flex;
+  }
+  .header{
+    text-align: center;
+    padding-top: 5%;
+  }
+  .nav-link{
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    color: black;
+    display: inline;
+  
+  }
+  .navbar-nav{
+    list-style: none;
+    padding-left: 4.5%;
+    width: 90%;
+  }
+  .nav-item{
+    display: inline;
+    padding-left: 4%;
+  }
+  #navbarNav{
+    display: flex;
+  }
+  .banner{
+    height: 50%;
+    background-image: url(https://bridge420.qodeinteractive.com/wp-content/uploads/2021/02/category-title-image.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1{
+    color: #222222;
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 36px;
+    letter-spacing: 2;
+    text-align: center;
+    padding-top: 12%;
+  }
+  .column-one{
+    width: 35%;
+  }
+  .column-two{
+   width: 35%;
+   margin-left: -2%;
+  
+  }
+  
+  .recipe-img{
+    width: 90%;
+  }
+  .columns{
+    margin-left: 11%
+  }
+  .columns-content{
+    width: 80%;
+  }
+  .column-three{
+    width: 21%;
+    margin-left: -1%;
+    padding-top: 2%;
+  }
+  .menu-selection{
+    margin-top: 5%;
+  }
+  h3{
+    color: #222222;
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 23px;
+  }
+  .col-text{
+    font-family: 'Nunito', sans-serif;
+    color: #777777;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .lunch-btn{
+    background-color: #d9a3b2;
+    border: none;
+    color: white;
+    height: 30px;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 1;
+    margin-top: 4%;
+    margin-bottom: -4%;
+    margin-left: 35%;
+  }
+  
+  .blue-box{
+    background-color: #dde9fb;
+    text-align: center;
+    height: 2%;
+   
+  }
+  .contact{
+    text-align: center;
+    margin-top: -7%;
+  }
+  .profile{
+    padding-top: 13%;
+  }
+  h5{
+    font-size: 25px;
+    font-family: Abril Fatface;
+  }
+  .bio{
+    color: #777777;
+      font-family: 'Nunito', sans-serif;
+      font-size: 16px;
+      line-height: 26px;
+  }
+  .social-icons{
+    margin-top: 10%;
+  }
+  .coconut{
+    width: 30%;
+    height: 30%;
+    margin-top: 30%;
+    margin-right: 4%;
+  }
+  .coconut-text{
+    font-size:20px; 
+  }
+  .menu-list{
+   padding-top: 9%;
+  }
+  .blue-header{
+    font-family: Nunito;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    color: #333333;
+    padding-top: 5%;
+  }
+  .categories{
+      text-decoration: none;
+      color: #666666;
+      font-size: 12px;
+      font-family: Nunito;
+      line-height: 20px;
+      letter-spacing: 2px;
+      padding-top: 16%;
+  }
